@@ -1,0 +1,27 @@
+{
+  "name": "generator-d3dash",
+  "version": "0.0.1",
+  "description": "Yeoman generator for d3 dashboards using atomic design principals. ",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JesseCastro/generator-d3dash.git"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "Jesse R. Castro <jesse.castro@rackspace.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JesseCastro/generator-d3dash/issues"
+  },
+  "homepage": "https://github.com/JesseCastro/generator-d3dash#readme",
+  "files": [
+    "generators/app"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^0.24.1"
+  }
+}
